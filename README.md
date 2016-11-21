@@ -1,2 +1,3 @@
 # Swarm-Visualisation
-A simple visual swarm with no interaction between individuals
+A simple model of swarm with no interaction between individuals
+Visualisation with Processing
